@@ -4,6 +4,8 @@ Hi 👋 My name is Nidal Alkharbash
 Software Engineer
 -----------------
 
+Sharing my everyday life as a junior software developer...
+
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [info@nidalalkharbash.com](mailto:info@nidalalkharbash.com)
 * 🧠  I'm learning Django
